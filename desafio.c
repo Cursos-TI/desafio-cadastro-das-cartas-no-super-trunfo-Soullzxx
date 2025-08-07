@@ -11,7 +11,7 @@ int main() {
     float PIB;
     int numero_de_ponto_turistico;
 
-    printf("Bem vindo ao Desafio Xadrez! \n");
+    printf("Bem vindo ao Desafio Super Trunfo! \n");
 
     printf("Digite uma letra para o Estado de A a H: \n");
     scanf(" %c", &letra);
